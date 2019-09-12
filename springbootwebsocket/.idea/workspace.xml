@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="vssapiserver:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0b38c24-babf-4cab-8ed3-5fed7e515a58" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../isstech_eureka/eureka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isstech_gatway/gatway.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vssapiserver/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vssapiserver/.idea/smartfox_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vssapiserver/.idea/sonarlint/issuestore/0/9/09e02b3c3b9d3b0e271fd88fffbd09c991430ae9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vssapiserver/.idea/sonarlint/issuestore/1/b/1b390176a740d6611782e00fa19c4473513e570e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vssapiserver/.idea/sonarlint/issuestore/1/c/1caeeab62b3b602d13de051bc9343562b3dd6fca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vssapiserver/.idea/sonarlint/issuestore/2/0/20520aaeb772ee7a8b89e6cc5e5a4915de008f8a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vssapiserver/.idea/sonarlint/issuestore/2/2/2284453dfc2882aafcbbb194f2fddf3a39bb91c1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vssapiserver/.idea/sonarlint/issuestore/2/c/2c9dbb4c5a3da572e5c8c64584c13b18bc89c8d2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vssapiserver/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vssapiserver/.idea/sonarlint/issuestore/5/4/5400087cd975ea8bd76d6cc98edbe895414cc2e9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vssapiserver/.idea/sonarlint/issuestore/8/3/830e2d7157da43a14d994f2dddc79a4409a191d6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vssapiserver/.idea/sonarlint/issuestore/9/3/9324fc3f5bc88dc2d8fef99e4bc3d68e9a045ce1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vssapiserver/.idea/sonarlint/issuestore/9/9/99a47bae447728d8fe0395f2bc9faeb702b4ffa9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vssapiserver/.idea/sonarlint/issuestore/9/d/9dc08573cf172e8542ac7afa8b111c8deef62b12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vssapiserver/.idea/sonarlint/issuestore/a/f/af328ac1526348d460496f3ba6ad2d19bf616ecd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vssapiserver/.idea/sonarlint/issuestore/c/b/cb8c2cdb8c8ad764e6bfff0c281676c7087de6b5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vssapiserver/.idea/sonarlint/issuestore/c/e/ce17dcde5dafa591fc8a7dd58c28ca387f24e26b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vssapiserver/.idea/sonarlint/issuestore/e/e/eefcb7306f55161a29697fecf2c922ca5f4fb1e4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vssapiserver/.idea/sonarlint/issuestore/f/f/ffb3443a90a50b24601ca3aa0e47ca4178a098c2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vssapiserver/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../isstech_gatway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../isstech_gatway/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/suyu/websocket/config/WebSocketConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/suyu/websocket/config/WebSocketConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/suyu/websocket/controller/WebSocketController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/suyu/websocket/controller/WebSocketController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/suyu/websocket/server/SocketServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/suyu/websocket/server/SocketServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_alibaba_fastjson_1_2_54.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_alibaba_fastjson_1_2_54.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_9_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_9_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_9_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_9_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_9_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_9_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_0_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_github_andrewoma_dexx_dexx_collections_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_github_andrewoma_dexx_dexx_collections_0_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_github_vlsi_compactmap_compactmap_1_2_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_github_vlsi_compactmap_compactmap_1_2_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_google_guava_guava_16_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_google_guava_guava_16_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_9_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_9_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_9_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_9_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_9_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_9_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_9_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_9_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_1_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_3_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_3_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_2_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_2_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_2_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_2_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_2_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_2_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_sun_xml_bind_jaxb_core_2_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__io_micrometer_micrometer_core_1_0_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__io_micrometer_micrometer_core_1_0_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__io_micrometer_micrometer_core_1_1_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__io_micrometer_micrometer_core_1_1_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__io_netty_netty_buffer_4_1_25_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__io_netty_netty_buffer_4_1_25_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__io_netty_netty_codec_4_1_25_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__io_netty_netty_codec_4_1_25_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_25_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_25_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__io_netty_netty_common_4_1_25_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__io_netty_netty_common_4_1_25_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__io_netty_netty_resolver_4_1_25_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__io_netty_netty_resolver_4_1_25_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__io_netty_netty_transport_4_1_25_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__io_netty_netty_transport_4_1_25_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_1_25_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_1_25_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_25_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_25_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__joda_time_joda_time_2_10_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__joda_time_joda_time_2_10_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_31.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_31.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_19.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_19.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_31.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_31.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_19.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_19.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_31.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_31.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_19.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_19.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_56.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_56.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_56.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_56.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_10_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_10_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_16_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_16_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_imgscalr_imgscalr_lib_4_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_imgscalr_imgscalr_lib_4_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_mongodb_bson_3_8_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_mongodb_bson_3_8_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_mongodb_mongo_java_driver_3_8_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_mongodb_mongo_java_driver_3_8_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_8_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_8_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_8_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_8_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_projectlombok_lombok_1_16_22.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_projectlombok_lombok_1_16_22.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_projectlombok_lombok_1_18_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_projectlombok_lombok_1_18_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_0_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_0_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_0_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_0_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_0_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_0_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_0_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_0_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_0_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_0_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_mongodb_2_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_mongodb_2_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_0_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_0_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_0_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_0_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_0_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_0_1_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_0_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_0_1_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_unknown.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_unknown.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_0_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_0_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_0_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_0_1_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_0_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_0_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_0_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_0_1_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_2_0_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_2_0_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_2_0_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_2_0_1_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_0_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_0_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_0_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_0_1_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_2_0_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_2_0_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_0_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_0_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_0_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_0_1_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_zuul_2_0_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_zuul_2_0_1_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_0_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_0_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_0_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_0_1_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_0_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_0_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_0_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_0_1_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_0_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_0_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_0_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_0_1_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_server_2_0_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_server_2_0_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_0_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_0_1_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_0_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_0_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_0_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_0_1_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_unknown.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_unknown.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_zuul_2_0_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_zuul_2_0_1_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_zipkin_unknown.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_zipkin_unknown.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_2_1_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_2_1_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_0_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_0_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_aop_5_0_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_aop_5_0_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_aop_5_1_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_aop_5_1_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_beans_5_0_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_beans_5_0_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_beans_5_1_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_beans_5_1_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_context_5_0_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_context_5_0_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_context_5_1_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_context_5_1_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_core_5_0_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_core_5_0_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_core_5_1_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_core_5_1_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_expression_5_0_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_expression_5_0_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_expression_5_1_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_expression_5_1_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_test_5_0_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_test_5_0_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_test_5_1_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_test_5_1_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_tx_5_1_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_tx_5_1_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_web_5_0_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_web_5_0_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_web_5_1_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_web_5_1_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/src/main/java/com/soft/config/WebSocketConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/src/main/java/com/soft/config/WebSocketConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/code/ErrorCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/code/Resp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/code/RespFind.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/config/ApplicationInitConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/config/ApplicationInitMongo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/config/ConnectionConstant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/config/WebSocketConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/AddressController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/BaseController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/DocController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/FileController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/JVTController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/StreamMediaController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/AnalysisTaskHistoryController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/AnalysisTaskHistoryController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/AnalysisTaskRealTimeController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/AnalysisTaskRealTimeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/AreaIntrusionAlarmController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/BlackGroupInfoController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/BlackGroupInfoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/BlackGroupRelationInfoController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/BlackGroupRelationInfoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/BlackListPersonController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/BlackListPersonController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/BlackListVehicleController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/BlackListVehicleController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/CapturePresetPositionController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/CapturePresetPositionController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/CaseController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/CaseController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/CluesAlarmRelationController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/CluesController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/CluesController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/DangerVehicleAlarmController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/DeviceController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/FaceResultController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/FaceResultController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/FireAccessAlarmController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/FloatingObjectsAlarmController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/FoldLineAlarmController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/GroupedPersonnelController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/HelmetMonitorAlarmController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/InflammableAndExplosiveAreaAlarmController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/OperationLogController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/OrganizationalStructureController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/PageController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/ParameterController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/PeopleGatheredAlarmController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/PeopleWanderAlarmController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/PollGroupController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/PollGroupController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/PositionMonitoringAlarmController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/PyrAlarmController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/SystemRoleController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/UserController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/VehicleAlarmController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/VehicleResultController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/VehicleResultController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/VideoLabelInformationContorller$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/controller/open/VideoLabelInformationContorller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/AddressEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/AnalysisTaskHistoryEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/AnalysisTaskRealTimeEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/AreaIntrusionAlarmEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/BaiduAiFileEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/BlackGroupInfoEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/BlackGroupRelationInfoEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/BlackListPersonEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/BlackListVehicleEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/CapturePresetPositionEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/CaseEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/CluesAlarmRelationEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/CluesEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/DangerVehicleAlarmEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/DeviceEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/DeviceExtend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/ExceptionEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/FaceContrastEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/FaceRecognitionEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/FaceResultEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/FileEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/FireAccessAlarmEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/FloatingObjectsAlarmEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/FoldLineAlarmEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/FsFilesEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/GroupedPersonnelEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/HelmetMonitorAlarmEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/InMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/InflammableAndExplosiveAreaAlarmEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/KeepAliveEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/OperationLogEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/OrganizationalStructureEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/Page.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/ParameterEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/PeopleGatheredAlarmEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/PeopleWanderAlarmEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/PollGroupEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/PositionMonitoringAlarmEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/PyrAlarmEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/SystemRoleEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/UserEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/VehicleAlarmEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/VehicleResultEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/entity/VideoLabelInformationEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/exception/InterfaceRunTimeException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/filter/JWTAuthenticationFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/filter/JWTLoginFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/filter/VersionValidateFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/global/Config.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/global/Constant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/global/SaticScheduleTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/global/WebSecurityConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/hander/AppWideExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/model/ParamsModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/security/MyAuthenticationProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/security/MyPasswordEncoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/server/SocketServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/server/StreamMediaServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/AddressService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/AnalysisTaskHistoryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/AnalysisTaskRealTimeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/AreaIntrusionAlarmService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/BaseService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/BlackGroupInfoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/BlackGroupRelationInfoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/BlackListPersonService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/BlackListVehicleService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/CapturePresetPositionService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/CaseService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/CluesAlarmRelationService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/CluesService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/DangerVehicleAlarmService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/DeviceExtendService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/DeviceService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/FaceContrastService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/FaceRecognitionService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/FaceResultService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/FileService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/FireAccessAlarmService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/FloatingObjectsAlarmService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/FoldLineAlarmService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/GroupedPersonnelService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/HelmetMonitorAlarmService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/InflammableAndExplosiveAreaAlarmService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/KeepAliveService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/OperationLogService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/OrganizationalStructureService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/ParameterService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/PeopleGatheredAlarmService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/PeopleWanderAlarmService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/PollGroupService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/PositionMonitoringAlarmService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/PyrAlarmService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/SystemRoleService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/VehicleAlarmService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/VehicleResultService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/VideoLabelInformationService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/WebSocketService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/AddressServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/AnalysisTaskHistoryServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/AnalysisTaskRealTimeServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/AreaIntrusionAlarmServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/BlackGroupInfoServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/BlackGroupRelationInfoServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/BlackListPersonServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/BlackListVehicleServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/CapturePresetPositionServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/CaseServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/CluesAlarmRelationServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/CluesServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/DangerVehicleAlarmServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/DeviceExtendServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/DeviceServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/FaceContrastServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/FaceRecognitionServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/FaceResultServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/FileServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/FireAccessAlarmServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/FloatingObjectsAlarmServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/FoldLineAlarmServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/GroupedPersonnelServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/HelmetMonitorAlarmServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/InflammableAndExplosiveAreaAlarmServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/KeepAliveServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/OperationLogServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/OrganizationalStructureServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/ParameterServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/PeopleGatheredAlarmServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/PeopleWanderAlarmServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/PollGroupServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/PositionMonitoringAlarmServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/PyrAlarmServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/SystemRoleServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/VehicleAlarmServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/VehicleResultServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/service/serviceImpl/VideoLabelInformationServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/utils/HttpClientUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/utils/HttpUtils$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/utils/HttpUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/utils/Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/vo/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/com/soft/vssapiserver/FilesServerApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/classes/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/test-classes/com/soft/files_server/FilesServerApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/test-classes/com/soft/files_server/ProcessSnapshotTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/target/test-classes/com/soft/files_server/TestDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vssapiserver/vssapiserver.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../vssapiserver/vssapiserver.iml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>send</find>
+      <find>socketServers</find>
+      <find>evt</find>
+      <find>jjwt</find>
+      <find>successfulAuthentication</find>
+      <find>ROLE_USER</find>
+      <find>provider</find>
+      <find>spring-cloud-dependencies</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../vssapiserver" />
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QivbL53jBhi1h7HqQ7uY2IXzJQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="com.github.izhangzhihao.rainbow.brackets.settings.RainbowConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.FilesServerApplication">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springbootwebsocket" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.suyu.websocket.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.isstech.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilesServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="vssapiserver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.soft.vssapiserver.FilesServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatwayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gatway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.isstech.GatwayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.FilesServerApplication" />
+      <item itemvalue="Spring Boot.GatwayApplication" />
+      <item itemvalue="Spring Boot.EurekaApplication" />
+      <item itemvalue="Spring Boot.Application" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0b38c24-babf-4cab-8ed3-5fed7e515a58" name="Default" comment="" />
+      <created>1564129043575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564129043575</updated>
+      <workItem from="1564129048361" duration="1696000" />
+      <workItem from="1564131016279" duration="6891000" />
+      <workItem from="1564362572307" duration="9696000" />
+      <workItem from="1568266304927" duration="242000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/suyu/websocket/server/SocketServer.java</url>
+          <line>179</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="socketServers" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>vssapiserver:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>vssapiserver</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
