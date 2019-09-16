@@ -67,7 +67,9 @@ public class TestController {
     @RequestMapping("sendAll")
     @ResponseBody
     public String sendAll(String msg){
-        SocketServer.sendAll(msg);
+        SocketServer.sendAll(msg+"Are you ready?");
         return "success";
     }
+
+
 }
