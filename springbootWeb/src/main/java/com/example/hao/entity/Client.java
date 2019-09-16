@@ -37,6 +37,7 @@ public class Client implements Serializable {
         this.session = session;
     }
 
+    // testssssssssssssssssss
     public Client() {
     }
 }
