@@ -8,7 +8,6 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import java.util.Arrays;
 import java.util.List;
 
 /**
@@ -16,7 +15,7 @@ import java.util.List;
  * 消息推送(个人和广播)
  */
 @Controller
-public class WebSocketController {
+public class TestController {
 
     @Autowired
     private SocketServer socketServer;
