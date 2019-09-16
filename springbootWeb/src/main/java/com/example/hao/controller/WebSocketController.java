@@ -40,8 +40,8 @@ public class WebSocketController {
      */
     @RequestMapping(value = "/admin")
     public String admin(Model model) {
-        int num = socketServer.getOnlineNum();
-        List<String> list = socketServer.getOnlineUsers();
+        int num = SocketServer.getOnlineNum();
+        List<String> list = SocketServer.getOnlineUsers();
 
         model.addAttribute("num",num);
         model.addAttribute("users",list);
