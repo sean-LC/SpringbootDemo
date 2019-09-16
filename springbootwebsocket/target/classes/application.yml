@@ -1,8 +1,0 @@
-server:
-  port: 8099
-
-spring:
-    devtools:
-      restart:
-        exclude:  static/**,public/**
-        enabled:  true
